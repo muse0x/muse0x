@@ -1,39 +1,16 @@
-<div align="center">
+# muse 🤣
 
-# muse 
-
-**Roblox Systems & Automation Engineer**
-
-Building scripting tools, UI systems, and stat-tracking utilities in Lua/Luau —
-with a growing interest in AI-assisted automation workflows.
-
-[![Visitors](https://komarev.com/ghpvc/?username=muse0x&color=green&style=flat-square&label=Profile+Views)](https://github.com/muse0x)
+[![Views](https://komarev.com/ghpvc/?username=muse0x&color=green&style=flat-square&label=Profile+Views)](https://github.com/muse0x)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
 
-</div>
+yo
 
----
+i script for roblox, mostly lua/luau. ui stuff, stat trackers, random tools. some of it works, some of it doesnt, idk
+also kinda into ai automation rn 
 
-### About
-
-Design and build scripting systems for Roblox — from UI/UX components to
-backend service modules and real-time stat tracking. Focus on writing
-with the help of AI, maintainable Luau code and exploring how AI tooling can speed up
-development workflows.
-
-- 🛠️ **Core stack:** Lua, Luau, Roblox Studio APIs
-- 🎯 **Focus areas:** UI/UX systems, service architecture, stat tracking
-- 🤖 **Currently exploring:** AI-assisted automation and tooling
-- 🎧 **Off-duty:** music production and creative tools
-
----
-
-### Tools & Editors
-
-<div align="center">
-
+### stuff i use
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1A1A1A?style=flat-square&logo=terminal&logoColor=white)
@@ -41,26 +18,22 @@ development workflows.
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-</div>
+yea i let ai write a lot of it, so what
 
----
+### stuff i made
+- **[UI-UX-etc](https://github.com/muse0x/UI-UX-etc)** - ui components for roblox scripts
+- **[3tn-trackstats-blox-fruit](https://github.com/muse0x/3tn-trackstats-blox-fruit)** - tracks ur blox fruit stats in real time ( dropped it)
+- **[fl-](https://github.com/muse0x/fl-)** - fluent renew, single file fluent ui lib
+- **[bnnc](https://github.com/muse0x/bnnc)** - still working on it
+- **[service](https://github.com/muse0x/service)** - just look
 
-### Featured Projects
+### faq
+**does it work?** prob
+**ill fix it?** maybe
+**can i use ur code?** fuk u
 
-| Project | Description | Stack |
-|---|---|---|
-| [**UI-UX-etc**](https://github.com/muse0x/UI-UX-etc) | UI/UX component library for Roblox scripts | Lua |
-| [**3tn-trackstats-blox-fruit**](https://github.com/muse0x/3tn-trackstats-blox-fruit) | Real-time stat-tracking tool for Blox Fruit | — |
-| [**bnnc**](https://github.com/muse0x/bnnc) | Lua project in active development | Lua |
-| [**fl-**](https://github.com/muse0x/fl-) | Fluent Renew — single-file Fluent UI library for Roblox | Luau |
+off duty i make music 🎧
 
----
+found a bug? open an issue. or dont, up to u
 
-<div align="center">
-
-
-<div align="center">
-
-✨ Thanks for stopping by — feel free to explore my repos above.
-
-</div>
+sybau poklz
