@@ -28,9 +28,9 @@ yea i let ai write a lot of it, so what
 - **[service](https://github.com/muse0x/service)** - just look
 
 ### faq
-**does it work?** prob
-**ill fix it?** maybe
-**can i use ur code?** fuk u
+- **does it work?** prob
+- **ill fix it?** maybe
+- **can i use ur code?** fuk u
 
 off duty i make music 🎧
 
