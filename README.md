@@ -1,13 +1,13 @@
 <div align="center">
 
-# muse — tmuseAI
+# muse 
 
 **Roblox Systems & Automation Engineer**
 
 Building scripting tools, UI systems, and stat-tracking utilities in Lua/Luau —
 with a growing interest in AI-assisted automation workflows.
 
-[![Visitors](https://komarev.com/ghpvc/?username=tmuseAI&color=green&style=flat-square&label=Profile+Views)](https://github.com/tmuseAI)
+[![Visitors](https://komarev.com/ghpvc/?username=muse0x&color=green&style=flat-square&label=Profile+Views)](https://github.com/muse0x)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
@@ -49,10 +49,10 @@ development workflows.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**UI-UX-etc**](https://github.com/tmuseAI/UI-UX-etc) | UI/UX component library for Roblox scripts | Lua |
-| [**3tn-trackstats-blox-fruit**](https://github.com/tmuseAI/3tn-trackstats-blox-fruit) | Real-time stat-tracking tool for Blox Fruit | — |
-| [**bnnc**](https://github.com/tmuseAI/bnnc) | Lua project in active development | Lua |
-| [**fl-**](https://github.com/tmuseAI/fl-) | Fluent Renew — single-file Fluent UI library for Roblox | Luau |
+| [**UI-UX-etc**](https://github.com/muse0x/UI-UX-etc) | UI/UX component library for Roblox scripts | Lua |
+| [**3tn-trackstats-blox-fruit**](https://github.com/muse0x/3tn-trackstats-blox-fruit) | Real-time stat-tracking tool for Blox Fruit | — |
+| [**bnnc**](https://github.com/muse0x/bnnc) | Lua project in active development | Lua |
+| [**fl-**](https://github.com/muse0x/fl-) | Fluent Renew — single-file Fluent UI library for Roblox | Luau |
 
 ---
 
