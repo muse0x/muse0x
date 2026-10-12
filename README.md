@@ -24,7 +24,6 @@ yea i let ai write a lot of it, so what
 - **[UI-UX-etc](https://github.com/muse0x/UI-UX-etc)** - ui components for roblox scripts
 - **[3tn-trackstats-blox-fruit](https://github.com/muse0x/3tn-trackstats-blox-fruit)** - tracks ur blox fruit stats in real time ( dropped it)
 - **[fl-](https://github.com/muse0x/fl-)** - fluent renew, single file fluent ui lib
-- **[bnnc](https://github.com/muse0x/bnnc)** - still working on it
 - **[service](https://github.com/muse0x/service)** - just look
 
 ### faq
