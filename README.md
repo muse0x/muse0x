@@ -11,7 +11,6 @@ also kinda into ai automation rn
 
 ### stuff i use
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1A1A1A?style=flat-square&logo=terminal&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
@@ -20,10 +19,19 @@ also kinda into ai automation rn
 yea i let ai write a lot of it, so what
 
 ### stuff i made
-- **[UI-UX-etc](https://github.com/muse0x/UI-UX-etc)** - ui components for roblox scripts
-- **[3tn-trackstats-blox-fruit](https://github.com/muse0x/3tn-trackstats-blox-fruit)** - tracks ur blox fruit stats in real time ( dropped it)
-- **[fl-](https://github.com/muse0x/fl-)** - fluent renew, single file fluent ui lib
-- **[service](https://github.com/muse0x/service)** - just look
+
+**ai / tools**
+- **[gemini-web2api](https://github.com/muse0x/gemini-web2api)** — turn gemini web into openai-compatible api. zero auth, single file, works with opencode / claude code / codex
+- **[STATS-FOR-SPOTIFY-DESKTOP](https://github.com/muse0x/STATS-FOR-SPOTIFY-DESKTOP)** — desktop client for statsforspotify. exact play counts + listening hours, electron
+
+**roblox**
+- **[fl-](https://github.com/muse0x/fl-)** — fluent renew, single-file fluent ui lib
+- **[UI-UX-etc](https://github.com/muse0x/UI-UX-etc)** — ui components for roblox scripts
+- **[3tn-trackstats-blox-fruit](https://github.com/muse0x/3tn-trackstats-blox-fruit)** — tracks blox fruit stats in real time (dropped)
+- **[service](https://github.com/muse0x/service)** — just look
+
+**game mods**
+- **[The-Forest-Mod-Plugin](https://github.com/muse0x/The-Forest-Mod-Plugin)** — lightweight qol mods for The Forest (fullbright etc, bepinex)
 
 ### faq
 - **does it work?** prob
