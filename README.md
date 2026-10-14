@@ -21,17 +21,17 @@ yea i let ai write a lot of it, so what
 ### stuff i made
 
 **ai / tools**
-- **[gemini-web2api](https://github.com/muse0x/gemini-web2api)** — turn gemini web into openai-compatible api. zero auth, single file, works with opencode / claude code / codex
-- **[STATS-FOR-SPOTIFY-DESKTOP](https://github.com/muse0x/STATS-FOR-SPOTIFY-DESKTOP)** — desktop client for statsforspotify. exact play counts + listening hours, electron
+- **[gemini-web2api](https://github.com/muse0x/gemini-web2api)** - turn gemini web into openai-compatible api. zero auth, single file, works with opencode / claude code / codex
+- **[STATS-FOR-SPOTIFY-DESKTOP](https://github.com/muse0x/STATS-FOR-SPOTIFY-DESKTOP)** - desktop client for statsforspotify. exact play counts + listening hours, electron
 
 **roblox**
-- **[fl-](https://github.com/muse0x/fl-)** — fluent renew, single-file fluent ui lib
-- **[UI-UX-etc](https://github.com/muse0x/UI-UX-etc)** — ui components for roblox scripts
-- **[3tn-trackstats-blox-fruit](https://github.com/muse0x/3tn-trackstats-blox-fruit)** — tracks blox fruit stats in real time (dropped)
-- **[service](https://github.com/muse0x/service)** — just look
+- **[fl-](https://github.com/muse0x/fl-)** - fluent renew, single-file fluent ui lib
+- **[UI-UX-etc](https://github.com/muse0x/UI-UX-etc)** - ui components for roblox scripts
+- **[3tn-trackstats-blox-fruit](https://github.com/muse0x/3tn-trackstats-blox-fruit)** - tracks blox fruit stats in real time (dropped)
+- **[service](https://github.com/muse0x/service)** - just look
 
 **game mods**
-- **[The-Forest-Mod-Plugin](https://github.com/muse0x/The-Forest-Mod-Plugin)** — lightweight qol mods for The Forest (fullbright etc, bepinex)
+- **[The-Forest-Mod-Plugin](https://github.com/muse0x/The-Forest-Mod-Plugin)** - lightweight qol mods for The Forest (fullbright etc, bepinex)
 
 ### faq
 - **does it work?** prob
