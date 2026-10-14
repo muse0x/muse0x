@@ -1,5 +1,5 @@
 # muse 🤣
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muse0x)](https://git.io/streak-stats)
 [![Views](https://komarev.com/ghpvc/?username=muse0x&color=green&style=flat-square&label=Profile+Views)](https://github.com/muse0x)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
