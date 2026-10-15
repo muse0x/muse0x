@@ -4,10 +4,10 @@
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
 
-yo
+yo 
 
 i script for roblox, mostly lua/luau. ui stuff, stat trackers, random tools. some of it works, some of it doesnt, idk
-also kinda into ai automation rn 
+also kinda into ai automation rno
 
 ### stuff i use
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
